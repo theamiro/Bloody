@@ -1,0 +1,6 @@
+framework module Pods_Donor_DonorUITests {
+  umbrella header "Pods-Donor-DonorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
